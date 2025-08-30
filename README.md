@@ -1,6 +1,6 @@
 # Chunab - Modern E-Voting System
 
-![Chunab Logo](assets/img/logo.png)
+![Chunab Logo](assets/img/chunab-transparent.png)
 
 A secure, transparent, and user-friendly electronic voting system built with modern web technologies.
 

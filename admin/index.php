@@ -9,7 +9,7 @@
 <body class="hold-transition login-page">
 	<div class="login-box">
 		<div class="login-logo">
-			<b>e-Vox Admin Panel</b>
+			<b>Chunab Admin Panel</b>
 		</div>
 	
 		<div class="login-box-body">
